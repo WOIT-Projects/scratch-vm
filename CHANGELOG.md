@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://github.com/scratchfoundation/scratch-vm/compare/v2.2.0...v2.3.0) (2024-01-17)
+
+
+### Features
+
+* **deps:** update dependency scratch-blocks to v1.1.0 ([36e093d](https://github.com/scratchfoundation/scratch-vm/commit/36e093daefc47ead50c0675afa52cc80f84f8776))
+
+# [2.2.0](https://github.com/scratchfoundation/scratch-vm/compare/v2.1.68...v2.2.0) (2024-01-17)
+
+
+### Features
+
+* **deps:** update dependency scratch-l10n to v3.18.0 ([ff2e44a](https://github.com/scratchfoundation/scratch-vm/commit/ff2e44ad941c79b51e1a12669b2c03a41d4aa74f))
+
+## [2.1.68](https://github.com/scratchfoundation/scratch-vm/compare/v2.1.67...v2.1.68) (2024-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-blocks to v1.0.8 ([1e69fbe](https://github.com/scratchfoundation/scratch-vm/commit/1e69fbed786f2b0b98a03418b49943dd3a6997f1))
+
+## [2.1.67](https://github.com/scratchfoundation/scratch-vm/compare/v2.1.66...v2.1.67) (2024-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-l10n to v3.16.20240116031928 ([cd4834c](https://github.com/scratchfoundation/scratch-vm/commit/cd4834c77ff603fb50d34f921feb125262e61d28))
+
 ## [2.1.66](https://github.com/scratchfoundation/scratch-vm/compare/v2.1.65...v2.1.66) (2024-01-14)
 
 
