@@ -3,6 +3,10 @@
 
 [![CI/CD](https://github.com/scratchfoundation/scratch-vm/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/scratchfoundation/scratch-vm/actions/workflows/ci-cd.yml)
 
+## Craftabor
+
+The craftabor extensions is found in `src/extensions/scratch3_craftabor` directory. All other extensions are turned off in `src/extensions-support/extension-manages.js`.
+
 ## Installation
 This requires you to have Git and Node.js installed.
 
