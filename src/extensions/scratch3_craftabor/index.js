@@ -4,7 +4,8 @@ const Cast = require('../../util/cast');
 const log = require('../../util/log');
 const fetch = require('node-fetch');
 const formatMessage = require('format-message');
-const api = 'https://api.ctb.hu';
+// eslint-disable-next-line no-undef
+const api = process.env.API_URL;
 class Scratch3MC {
     constructor (runtime) {
         this.runtime = runtime;
